@@ -2,3 +2,4 @@ These are my notes about learning GitHub.
 - Step 1: Create an account
 - Step 2: Make a repository
 - Step 3: Edit files
+- Step 4: Edit and delete files
